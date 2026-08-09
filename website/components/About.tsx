@@ -3,20 +3,20 @@ export default function About() {
     <section
       id="about"
       style={{
-        padding: "100px 60px",
+        padding: "30px 20px",
         maxWidth: "1200px",
         margin: "0 auto",
       }}
     >
       <h2
         style={{
-          fontSize: "clamp(20px, 5vw, 60px)",
+          fontSize: "clamp(20px, 5vw, 25px)",
           color: "#1595d0",
-          marginBottom: "10px",
+          marginBottom: "25px",
           textAlign: "center",
         }}
       >
-        About Me
+        About me
       </h2>
 
       <p

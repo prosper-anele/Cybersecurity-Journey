@@ -31,8 +31,8 @@ export default function Projects() {
       <h2
         style={{
           color: "#38bdf8",
-          fontSize: "clamp(20px, 5vw, 52px)",
-          marginBottom: "40px",
+          fontSize: "clamp(20px, 5vw, 25px)",
+          marginBottom: "20px",
           textAlign: "center",
         }}
       >
